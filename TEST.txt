@@ -1,3 +1,4 @@
+git init 初始化
 git remote add origin http://... 关联远程库
 git remote remove origin 取消关联远程库
 
